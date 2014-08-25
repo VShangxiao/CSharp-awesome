@@ -2,7 +2,7 @@
 
 A collection of awesome .NET extensions for VS and Resharper.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 
 * [Awesome DotNet](#awesome-dotnet)
   * [VS Extensions](#vs-extensions)
