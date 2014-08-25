@@ -22,14 +22,13 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 ## Resharper Extensions
 
-* [ActiveMesa R2P]() - 
-* [CleanCode]() - 
-* [Code Annotation Pack]() - 
-* [Predictive Code Suggestions]() - 
-* [ReformatUtils]() - 
-* [Resharper PowerToys: Cyclomatic Complexing]() - 
-* [Resharper.DictionaryHelper]() - 
-* [Resharper.ExternalAnnotations]() - 
-* [Resharper.Reflection]() - 
-* [TestCop]() - 
-* [Utility Pack]() - 
+* [ActiveMesa R2P](https://resharper-plugins.jetbrains.com/packages/R2P/) - A productivity plugin for JetBrains ReSharper. Includes advanced inspections, context actions, fixes, refactorings and more.
+* [CleanCode](https://resharper-plugins.jetbrains.com/packages/CleanCode/) - Automates some of the concepts in Uncle Bob's Clean Code book
+* [Code Annotation Pack](https://resharper-plugins.jetbrains.com/packages/CodeAnnotationPack/) - Additional support for code annotations. Highlight method parameters, returns values and properties without code annotations. Quick Fix for applying code annotation attributes and assertions.
+* [Predictive Code Suggestions](https://resharper-plugins.jetbrains.com/packages/PredictiveCodeSuggestions/) - Suggests the next line of code by finding patterns in existing code. In many cases a line of code is often followed by a specific other line of code forming a common pattern of lines. Patent Pending.
+* [ReformatUtils](https://resharper-plugins.jetbrains.com/packages/ReformatUtils/) - Actions and shortcuts for reformatting based on scope (e.g. reformat method)
+* [Resharper PowerToys: Cyclomatic Complexing](https://resharper-plugins.jetbrains.com/packages/PowerToys.CyclomaticComplexity/) - Highlights a method if its cyclomatic complexity is greater than a configurable threshold
+* [Resharper.DictionaryHelper](https://resharper-plugins.jetbrains.com/packages/ReSharper.DictionaryHelper/) - A set of refactorings for IDictionary<,>
+* [Resharper.ExternalAnnotations](https://resharper-plugins.jetbrains.com/packages/ReSharper.ExternalAnnotations/) - ReSharper External Annotations for .NET framework and popular libraries.
+* [TestCop](https://resharper-plugins.jetbrains.com/packages/Resharper.TestCop/) - Easily switch between unit tests and code. Create missing associated files. Includes highlightings and test templates to keep test projects neat and tidy. Works with NUnit, MSTest, xUnit ...
+* [Utility Pack](https://resharper-plugins.jetbrains.com/packages/UtilityPack/) - Contains 10 context actions: Duplicate Method, Invert Return Value, Make Abstract, Make Virtual, Pull Parameters, Reverse For-loop, Use As Operation, Use Cast Operation, Use String.Compare, and Use StringBuilder.
