@@ -5,8 +5,8 @@ A collection of awesome .NET extensions for VS and Resharper.
 Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
 * [Awesome DotNet](#awesome-dotnet)
-  * [VS Extensions](#vs)
-  * [R# Extensions](#resharper)
+  * [VS Extensions](#vs-extensions)
+  * [R# Extensions](#resharper-extensions)
 
 ## VS Extensions
 
@@ -20,7 +20,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Visual Studio Spell Checker](http://visualstudiogallery.msdn.microsoft.com/a23de100-31a1-405c-b4b7-d6be40c3dfff) - An editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. Extra options are available to control how elements and attributes in XML and MAML files are spell checked.
 * [Web Essentials](http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361) - Adds many useful features to Visual Studio for web developers. Requires VS2013 Update 3
 
-## R# Extensions
+## Resharper Extensions
 
 * [ActiveMesa R2P]() - 
 * [CleanCode]() - 
