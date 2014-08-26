@@ -19,7 +19,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 * [Visual Asist](http://visualstudiogallery.msdn.microsoft.com/D6678A1F-C700-4532-8C5E-A799D875063D) - Productivity tool for C/C++ and C# that improves IDE features related to navigation, refactoring, code generation, and coding assistance.
 * [Visual Studio Spell Checker](http://visualstudiogallery.msdn.microsoft.com/a23de100-31a1-405c-b4b7-d6be40c3dfff) - An editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. Extra options are available to control how elements and attributes in XML and MAML files are spell checked.
 * [Web Essentials](http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361) - Adds many useful features to Visual Studio for web developers. Requires VS2013 Update 3
-* [Microsoft StyleCop](http://visualstudiogallery.msdn.microsoft.com/06C6AE96-FB05-4379-8800-F08DAEABB7BE/) - StyleCop analyzes C# source code to enforce a set of best practice style and consistency rules.
+* [Microsoft StyleCop](http://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of best practice style and consistency rules.
 
 ## Resharper Extensions
 
