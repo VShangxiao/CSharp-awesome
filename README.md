@@ -20,6 +20,7 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 * [Visual Studio Spell Checker](http://visualstudiogallery.msdn.microsoft.com/a23de100-31a1-405c-b4b7-d6be40c3dfff) - An editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. Extra options are available to control how elements and attributes in XML and MAML files are spell checked.
 * [Web Essentials](http://visualstudiogallery.msdn.microsoft.com/56633663-6799-41d7-9df7-0f2a504ca361) - Adds many useful features to Visual Studio for web developers. Requires VS2013 Update 3
 * [Microsoft StyleCop](http://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of best practice style and consistency rules.
+* [GhostDoc ](https://visualstudiogallery.msdn.microsoft.com/46A20578-F0D5-4B1E-B55D-F001A6345748) - GhostDoc is a Visual Studio extension that automatically generates XML documentation comments for methods and properties based on their type, parameters, name, and other contextual information.
 
 ## Resharper Extensions
 
@@ -33,3 +34,5 @@ Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet).
 * [Resharper.ExternalAnnotations](https://resharper-plugins.jetbrains.com/packages/ReSharper.ExternalAnnotations/) - ReSharper External Annotations for .NET framework and popular libraries.
 * [TestCop](https://resharper-plugins.jetbrains.com/packages/Resharper.TestCop/) - Easily switch between unit tests and code. Create missing associated files. Includes highlightings and test templates to keep test projects neat and tidy. Works with NUnit, MSTest, xUnit ...
 * [Utility Pack](https://resharper-plugins.jetbrains.com/packages/UtilityPack/) - Contains 10 context actions: Duplicate Method, Invert Return Value, Make Abstract, Make Virtual, Pull Parameters, Reverse For-loop, Use As Operation, Use Cast Operation, Use String.Compare, and Use StringBuilder.
+* [Heap Allocation Viewer](https://resharper-plugins.jetbrains.com/packages/ReSharper.HeapView) - Highlights local object allocations, boxing, delegates and closure creations points.
+* [Code Contract editing extensions](https://resharper-plugins.jetbrains.com/packages/ReSharper.ContractExtensions/) - Simplifies adding preconditions, postconditions and object invariant during day-to-day activities. Detects Code Contract error/warnings in the IDE.
